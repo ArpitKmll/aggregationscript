@@ -14,5 +14,5 @@ Numberofdocs_ = 1000
 #Name of output file
 Namefile_ = ""
 
-
+#Enter the aggregation pipeline in the brackets
 Pipeline_ = []
